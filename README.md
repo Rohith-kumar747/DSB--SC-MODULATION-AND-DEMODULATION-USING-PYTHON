@@ -29,7 +29,14 @@ __Procedure__:
 7) Low-pass filter to recover message
 
    __Tabulation__:
+   
+<img width="1600" height="1359" alt="image" src="https://github.com/user-attachments/assets/7ce972a7-c365-4eee-bd2b-378f0a84be81" />
+
 
    __Output__:
 
+   <img width="782" height="545" alt="image" src="https://github.com/user-attachments/assets/b88d00cc-70c3-4ab1-8c59-4d8365d0e6ab" />
+
    __Result__:
+
+The DSB-SC modulation was successfully implemented using python.
